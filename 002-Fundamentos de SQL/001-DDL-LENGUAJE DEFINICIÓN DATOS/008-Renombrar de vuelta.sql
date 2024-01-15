@@ -1,0 +1,1 @@
+RENAME TABLE `tablaPrueba`.`misusuarios` TO `tablaPrueba`.`usuarios`;

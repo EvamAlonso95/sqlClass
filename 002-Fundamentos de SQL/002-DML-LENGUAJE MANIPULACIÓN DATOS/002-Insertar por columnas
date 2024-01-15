@@ -1,0 +1,33 @@
+INSERT INTO clientes (
+    nombre,
+    idfiscal,
+    direcion,
+    codigopostal
+)
+
+VALUES (
+	
+    'Nombre de la empresa2',
+    'C00002',
+    'Dirección de la empresa2',
+    '4656120'
+      
+);
+
+
+INSERT INTO user (
+    name,
+    password,
+    age,
+    idLocation
+)
+
+VALUES (
+	
+    'Nombre de la empresa2',
+    'C00002',
+    'Dirección de la empresa2',
+    '4656120'
+      
+);
+
